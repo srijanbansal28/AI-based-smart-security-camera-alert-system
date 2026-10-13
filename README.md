@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔒 AI-Based Smart Camera Surveillance System
 
 A production-ready, real-time surveillance platform that uses deep learning to detect threats (fire, weapons, violence, suspicious activity) from webcam or CCTV feeds — with instant email + WhatsApp alerts, and all data stored in MongoDB Atlas.
@@ -381,3 +382,7 @@ db.users.updateOne({ email: "admin@you.com" }, { $set: { role: "admin" } })
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE) for details.
+=======
+# AI-based-smart-security-camera-alert-system
+The AI-Based Smart Camera Surveillance System is an intelligent, real-time security monitoring platform designed to detect potential threats and automate emergency responses using Artificial Intelligence and Deep Learning. The system analyzes live video streams from webcams and CCTV cameras to identify suspicious activities, fire, smoke, weapons.
+>>>>>>> 8040469114094dd4486057f2cd41058ed444aa87
